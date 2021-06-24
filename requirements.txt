@@ -1,0 +1,4 @@
+paddlenlp
+paddlepaddle
+numpy
+visualdl
